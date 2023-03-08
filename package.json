@@ -1,6 +1,6 @@
 {
   "name": "@qtnrtnd/watcher",
-  "repository": "github:fabiospampinato/watcher",
+  "repository": "github:qtnrtnd/watcher",
   "description": "The file system watcher that strives for perfection, with no native dependencies and optional rename detection support.",
   "version": "2.2.3",
   "type": "module",
