@@ -168,7 +168,7 @@ class Watcher extends EventEmitter {
 
       }
 
-    } else {
+    } else if ( fs.existsSync( folderPath ) ) {
 
       const configs = this._watchers[folderPath];
 

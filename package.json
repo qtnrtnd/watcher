@@ -1,8 +1,8 @@
 {
-  "name": "watcher",
+  "name": "@qtnrtnd/watcher",
   "repository": "github:fabiospampinato/watcher",
   "description": "The file system watcher that strives for perfection, with no native dependencies and optional rename detection support.",
-  "version": "2.2.2",
+  "version": "2.2.3",
   "type": "module",
   "main": "dist/watcher.js",
   "exports": "./dist/watcher.js",
